@@ -1,0 +1,17 @@
+“Adoptable Pets.” Montgomery County Md, 	data.montgomerycountymd.gov, 2018, data.montgomerycountymd.gov/api/views/e54u-qx42/rows.csv?accessType=DOWNLOAD. 
+
+My data set shows the number of pets that were brought to Montgomery County Animal Services and Adoption Center and why they ended up there. This data set also shows whether or not these pets were adopted, what type of animals it was, breed, male or female, and color.
+
+Authors:
+	data.montgomerycountymd.gov
+purpose/details/overview:
+  The purpose of this data set was to organize how many pets/animals they are bringing into their shelter. This data set includes how the animal was brought in. This spans from a confiscation, a return, a stray, and the owner surrendering it. This data set also includes the date that the animal was brought into the shelter, what type of animals it is, the name of the pet, the size of the pet, the color, breed, and sex. There are also quarterly data sets on their website that adds up the total of pets brought in and how many were adopted or sent to another facility.
+
+Intake Type: How the animal was brought to them. This includes confiscation, owner surrender, foster, return, and stray.
+In Date: when the animal was brought in.
+Pet name: The name of the pet that was brought in.
+Animal Type: What the animal is. Whether it is a cat, dog, or other.
+Pet age: how old the pet is
+Pet size: How big the pet is. Whether it is toy, small, medium, or large.
+Color: what color the animal is.
+sex: the gender of the animal and whether or not it is neutered.
